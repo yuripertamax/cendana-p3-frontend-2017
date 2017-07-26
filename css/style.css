@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Plaster');
+
+@font-face {
+    font-family: kasihsayang;
+    src: url(../fonts/KasihDansayang.ttf);
+}
+
+@font-face {
+    font-family: dandeleon;
+    src: url(fonts/DandeleonVintageDemo.ttf);
+}
+
+h1 {
+    font-family: 'Plaster', cursive;
+}
+
+p {
+    font-family: dandeleon;
+}
